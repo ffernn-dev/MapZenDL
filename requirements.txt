@@ -1,0 +1,7 @@
+numpy
+humanizer
+asyncio
+aiohttp[speedups]
+platformdirs
+rich
+imageio
