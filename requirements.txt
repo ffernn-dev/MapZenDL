@@ -4,4 +4,4 @@ asyncio
 aiohttp[speedups]
 platformdirs
 rich
-imageio
+pillow
